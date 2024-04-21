@@ -11,9 +11,10 @@ The connection is simple:
 | 5v   | 5v        |
 | GND | GND       |
 
-If you'd like to get going quickly, you can use the Python script in this repo to read the data from the sensor. Install the requirements in requirements.txt, change the serial port in the script to the one you are using, and run the script. If all goes well, after 30 seconds or so, you should see a live updating graph that looks something like this:
+If you'd like to get going quickly, you can use the Python script in this repo to read the data from the sensor. Install the requirements in requirements.txt, change the serial port in the script to the one you are using, and run the script. If all goes well, after 30 seconds or so, you should see a live updating graph that looks something like this: ![matplotlib graph](https://github.com/kylefmohr/R77ABH1/assets/6644803/a4075c51-d842-45b7-bb57-10a294e8fcf0)
 
-And the console output looks like this:
+And the console output looks like this: 
+
 
 ```
 Getting new packet...
